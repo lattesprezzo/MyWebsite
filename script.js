@@ -1,2 +1,2 @@
 // This is the best code!
-// This is the new code while coder-2 is away
+// This is the fixed code for coder-2 (written by coder-1)
